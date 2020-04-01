@@ -18,6 +18,10 @@ $ brew update
 $ brew install gcc-arm-none-eabi
 `
 
+`
+$ brew install stlink-tools
+`
+
 #### Makefile
 
 `
